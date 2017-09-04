@@ -1,7 +1,4 @@
 
-# coding: utf-8
-
-# In[45]:
 
 PlainText = '02468aceeca86420'
 Key = '0f1571c947d9e859'
@@ -303,7 +300,4 @@ print('Cipher Text:',binToHex(CT))
 
 
 
-# In[38]:
-
-abs(-2)
 
